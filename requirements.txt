@@ -1,0 +1,12 @@
+# Web UI Framework (Gradio 5+ provides modernized mobile touch controls and native before/after image viewers)
+gradio>=5.0.0,<7.0.0
+
+# Inference Engine (Lightweight CPU & GPU execution without requiring heavy PyTorch installations)
+onnxruntime>=1.18.0,<2.0.0
+
+# Hugging Face Hub (Automated model weight downloading and caching)
+huggingface_hub>=0.20.0,<1.0.0
+
+# Image & Array Processing
+pillow>=10.0.0,<12.0.0
+numpy>=1.24.0,<3.0.0
